@@ -46,3 +46,5 @@ cd r3b1n
 ## Usage
 ```
 sudo ./r3b1n -i wlo1 -p dns -o alltraffic.txt
+```
+The hotspot password id `11111111`
