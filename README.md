@@ -42,3 +42,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/yourusername/r3b1n.git
 cd r3b1n
+```
+## Usage
+```
+sudo ./r3b1n -i wlo1 -p dns -o alltraffic.txt
