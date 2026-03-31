@@ -40,7 +40,7 @@ It allows you to create a Wi-Fi hotspot, monitor connected devices, and capture 
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/r3b1n.git
+git clone https://github.com/codejavu-inc/r3b1n.git
 cd r3b1n
 ```
 ## Usage
